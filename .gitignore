@@ -1,0 +1,46 @@
+# ==========================================
+# Unity generated temporary files and folders
+# ==========================================
+[Logs]/
+[Packages]/
+[Target]/
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserGenerated/
+ProjectSettings/ProjectVersion.txt
+
+# ==========================================
+# Visual Studio / Rider / MonoDevelop files
+# ==========================================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+.vs/
+
+# ==========================================
+# OS generated files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+Logs/
+*.rar
