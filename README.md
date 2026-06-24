@@ -66,7 +66,7 @@ What you’ll see:
 - Gameplay highlights.
 - Bomb pushing and explosion mechanics.
 - Fish capture and power-up action.
-- A short presentation of the project.
+
 
 ***
 
